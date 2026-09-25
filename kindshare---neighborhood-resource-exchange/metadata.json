@@ -1,0 +1,12 @@
+{
+  "name": "KindShare - Neighborhood Resource Exchange",
+  "description": "Zero-friction AI donation platform connecting hyper-local surplus with acute community need, privacy-first discovery, and safe public handoffs.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

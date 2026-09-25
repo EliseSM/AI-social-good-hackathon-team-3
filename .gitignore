@@ -1,0 +1,12 @@
+node_modules/
+dist/
+server/node_modules/
+server/data.db
+server/data.db-shm
+server/data.db-wal
+server/uploads/*
+!server/uploads/.gitkeep
+.env.local
+*.tsbuildinfo
+vite.log
+server/server.log
